@@ -1,4 +1,4 @@
-👋 Hi, I’m @SauravKumar04  
+👋 Hi, I’m Saurav Kumar 
 - 👀 I’m interested in Web Development and Data Structures and Algorithms  
 - 🌱 I’m currently learning Backend (Node.js, Express, MongoDB)  
 - 💞️ I’m looking to collaborate on exciting web apps and open-source projects  
