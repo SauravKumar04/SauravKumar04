@@ -73,6 +73,6 @@
 
 ---
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1050&q=80" width="80%" alt="Code and Coffee" />
+  <img src="https://img.freepik.com/premium-photo/man-is-sitting-desk-with-computer-monitor-front-him_988095-21249.jpg?semt=ais_hybrid&w=740" width="80%" alt="Code and Coffee" />
 </p>
 
